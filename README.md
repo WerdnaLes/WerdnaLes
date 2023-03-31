@@ -1,9 +1,9 @@
-### Hi there 👋 My nickname is WerdnaLes!
+### Hi there 👋 I'm WerdnaLes!
 
 ---
-
-- 🔭 I’m currently working on [Javascript30 courses](https://github.com/WerdnaLes/JavaScript30-courses), also going through [The Odin Project](https://www.theodinproject.com) and [FreeCodeCamp](https://www.freecodecamp.org)
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- ⚡ Aspiring front-end developer.
+- 🔭 I’m currently working on [Javascript30 courses](https://github.com/WerdnaLes/JavaScript30-courses), also going through [The Odin Project](https://www.theodinproject.com) and [FreeCodeCamp](https://www.freecodecamp.org).
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 
 ---
 
@@ -13,9 +13,7 @@
 
 ---
 
-![WerdnaLes's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdnales&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werdnales&layout=compact&theme=radical)
+![WerdnaLes's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdnales&show_icons=true&theme=radical&hide=contribs,prs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werdnales&layout=compact&theme=radical)
 
 <!--
 **WerdnaLes/WerdnaLes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
