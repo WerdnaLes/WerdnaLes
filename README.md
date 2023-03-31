@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm WerdnaLes!
 
 ---
-- ⚡ Aspiring front-end developer.
+- ⚡ Aspiring web developer.
 - 🔭 I’m currently working on [Javascript30 courses](https://github.com/WerdnaLes/JavaScript30-courses), also going through [The Odin Project](https://www.theodinproject.com) and [FreeCodeCamp](https://www.freecodecamp.org).
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
